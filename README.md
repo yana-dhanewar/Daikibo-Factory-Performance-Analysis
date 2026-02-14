@@ -30,12 +30,12 @@ The dataset consists of **Industrial IoT telemetry logs** in JSON format, captur
 * **Bottleneck Equipment:** Successfully isolated specific **Device Types** (specifically Laser Cutters) that were consistently underperforming, allowing for targeted maintenance instead of costly site-wide shutdowns.
 
 ### 📂 Repository Structure
-| File                                  | Description                                              |
-| :---                                  | :---                                                     |
-| `Daikibo_Factory_Analysis.twbx`       | The full Tableau Packaged Workbook.                      |
-| `Factory_Telemetry_Data_May2021.json` | The raw source data used for the analysis.               |
-| `Yana_Dhanewar_Daikibo_SOW.pdf`       | Professional Scope of Work (SOW) document.               |
-| `README.md`                           | Project summary and technical documentation (this file). |
+| File                                      | Description                                              |
+| :---                                      | :---                                                     |
+| `Daikibo_Factory_Analysis.twbx`           | The full Tableau Packaged Workbook.                      |
+| `Factory_Telemetry_Data_May2021.json.zip` | The raw source data used for the analysis.               |
+| `Yana_Dhanewar_Daikibo_SOW.pdf`           | Professional Scope of Work (SOW) document.               |
+| `README.md`                               | Project summary and technical documentation (this file). |
 
 ---
 **Tools Used:** Tableau Desktop, JSON Data Parsing, Data Transformation, Statistical Trend Analysis.
