@@ -1,7 +1,5 @@
 # Daikibo-Factory-Performance-Analysis
 Industrial IoT telemetry analysis and interactive dashboard created for the Deloitte Data Analytics Job Simulation
-# Daikibo-Factory-Performance-Analysis
-Industrial IoT telemetry analysis and interactive dashboard created for the Deloitte Data Analytics Job Simulation
 # 🏭 Daikibo Operational Performance Overview
 **Industrial IoT Telemetry & Equipment Health Analysis**
 
@@ -9,7 +7,8 @@ Industrial IoT telemetry analysis and interactive dashboard created for the Delo
 This project was completed as part of the **Deloitte Data Analytics Job Simulation**. The objective was to transform raw industrial telemetry data into actionable executive insights for Daikibo, a global manufacturer. I analyzed failure patterns across four international factory locations—**Tokyo, Osaka, Berlin, and Shenzhen**—to identify critical maintenance priorities.
 
 ### 📊 Dashboard Preview
-<img width="1366" height="720" alt="Screenshot 2026-02-15 014812" src="https://github.com/user-attachments/assets/b80ffbab-531e-4c23-8870-ef6d1a94c87f" />
+<img width="1366" height="720" alt="Screenshot 2026-02-15 014812" src="https://github.com/user-attachments/assets/7d21a144-7451-4945-9bf2-f2ca02f08627" />
+
 
 
 ### 💾 Data Source
